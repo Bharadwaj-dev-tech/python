@@ -5,18 +5,9 @@
 
 **One-Click Python Project Creation • Modern GUI • Zero Dependencies • Professional Templates**
 
-[![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)]()
-[![Tkinter](https://img.shields.io/badge/GUI-Tkinter%20%7C%20ttk-orange)]()
-[![Dependencies](https://img.shields.io/badge/dependencies-None!-brightgreen)]()
-[![Code Size](https://img.shields.io/github/languages/code-size/username/project-builder)]()
-[![Last Commit](https://img.shields.io/github/last-commit/username/project-builder)]()
-[![Stars](https://img.shields.io/github/stars/username/project-builder?style=social)]()
 
 <div align="center">
   
-![Project Builder Demo](https://via.placeholder.com/800x400/0f1115/3aa0ff?text=Project+Builder+Demo+GIF+Here)
 
 **Transform 15 minutes of manual setup into 15 seconds of automation**
 
